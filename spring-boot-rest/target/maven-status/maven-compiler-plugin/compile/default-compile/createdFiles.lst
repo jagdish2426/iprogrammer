@@ -1,0 +1,5 @@
+com\example\demo\RatingsDataServiceApplication.class
+com\example\demo\AppController.class
+com\microservices\dao\ConnectionFactory.class
+com\microservices\model\Employee.class
+com\microservices\dao\EmployeeDAO.class
